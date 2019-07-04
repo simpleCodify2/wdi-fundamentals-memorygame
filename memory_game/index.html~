@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Mem CG</title>
+</head>
+
+<body>
+  <h1>Memory Card Game</h1>
+
+  <a href="#">Instructions</a>
+  <a href="#">Game</a>
+
+  <br />
+  <h2>Instructions</h2>
+  <p>Concentration, also known as Match Match, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the
+    game is to turn over pairs of matching cards.</p>
+
+  <h3>Why play?</h3>
+  <p>This game is a great way to keep your brain going. Using your brain to keep track of which cards were flipped is an easy and absolute method of keeping your cognitive functions running! </p>
+</body>
+<footer>
+  <a href="https://github.com/simplyLearningCode">My GitHub</a>
+  <br>
+  <br>
+  © 2019 simplyLearningCode
+</footer>
+
+</html>
